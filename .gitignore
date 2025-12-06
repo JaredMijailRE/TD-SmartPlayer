@@ -1,4 +1,3 @@
 .pio
-keyword-spotting/data
 kws_env
 keyword-spotting/dataset_mfcc
