@@ -2,4 +2,3 @@
 keyword-spotting/data
 kws_env
 keyword-spotting/dataset_mfcc
-keyword-spotting/deployments
