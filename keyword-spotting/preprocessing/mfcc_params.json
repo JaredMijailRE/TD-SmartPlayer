@@ -1,0 +1,9 @@
+{
+"sample_rate": 16000,
+"frame_length": 640,
+"frame_step": 320,
+"num_mel_bins": 40,
+"lower_freq": 20,
+"upper_freq": 4000,
+"num_coeffs": 10
+}

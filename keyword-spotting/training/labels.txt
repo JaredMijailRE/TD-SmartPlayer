@@ -1,0 +1,7 @@
+down
+go
+left
+right
+stop
+up
+_background_noise_
